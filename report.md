@@ -1,1 +1,1 @@
-In this 
+In this lab I created a reepository of my own choice where I added a text file, md and an html file. I edited one of the commit messages to the special message that was given then after that I deployed my html file on GitHub pages.
